@@ -1,0 +1,4 @@
+As a lemondae stand owner I want to be able to see lemondae so that I can earn money 
+As a lemondae stand owner I want to advertise the lemondae stand so that more people can buy lemondae
+As a lemondae stand owner I want to be able to see how much I can earn based on the amount of lemonades made so that I can see my income
+As a lemondae stand owner I want to be able to see my earning, expenses , profits, and assest so that I can make better business decisions
